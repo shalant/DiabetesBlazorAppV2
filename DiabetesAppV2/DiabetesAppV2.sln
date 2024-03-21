@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiabetesAppV2", "DiabetesAppV2\DiabetesAppV2.csproj", "{7C9DA148-8ED8-4C0B-A726-938AE3E520D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C9DA148-8ED8-4C0B-A726-938AE3E520D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C9DA148-8ED8-4C0B-A726-938AE3E520D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C9DA148-8ED8-4C0B-A726-938AE3E520D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C9DA148-8ED8-4C0B-A726-938AE3E520D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF060061-0C2D-47ED-AF3B-E9B64F28740F}
+	EndGlobalSection
+EndGlobal
